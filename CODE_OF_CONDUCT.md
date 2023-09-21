@@ -55,10 +55,10 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 
 ## 9. Contact Info
 
-alexandrahaynes1003@gmail.com
+<alexandrahaynes1003@gmail.com>
 
 ## 10. License and Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at <https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>
 
 [homepage]: https://www.contributor-covenant.org

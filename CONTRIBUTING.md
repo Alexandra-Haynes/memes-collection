@@ -25,8 +25,9 @@ Before you can contribute, please make sure you have the following:
 2. **Branch**: Create a new branch based on the `main` branch. Use a branch name that briefly tells what your contribution is about, e.g., `add-new-meme` or `fix-typo-in-readme`.
 
 3. **Add Meme/Joke**:
-    - For memes: Save your meme image in the `static/images/` folder. Accepted file formats are `.png` and `.jpg`.
-    - For jokes: Write your joke in a new markdown file inside the `content/` folder.
+    - For memes: Save your meme image in the `src/memes/` folder. Accepted file formats are `.png`, `.jpg`, and `.svg`.
+    - For jokes: Write your joke in a new JavaScript file inside the `src/jokes/` folder. Export your joke as a string.
+
 
 4. **Commit**: Commit your changes. Use a clear and meaningful commit message.
 
@@ -48,7 +49,7 @@ By participating in this project, you are expected to uphold our [Code of Conduc
 
 ## Seeking Help
 
-If you run into any issues or need guidance on a contribution, please don't hesitate to ask. You can reach out by [opening an issue](https://github.com/YOUR_USERNAME/HacktoberFest2023-memes-collection
+If you run into any issues or need guidance on a contribution, please don't hesitate to ask. You can reach out by [opening an issue](<https://github.com/YOUR_USERNAME/hacktoberfest2023-memes-collection>
 /issues) on GitHub.
 
 ---

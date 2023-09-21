@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.5570eb5e.css",
-    "main.js": "/static/js/main.38816a13.js",
-    "static/js/787.becbf285.chunk.js": "/static/js/787.becbf285.chunk.js",
-    "static/media/meme1.png": "/static/media/meme1.6dc10ee281dd1d3546a0.png",
-    "static/media/meme2.jpeg": "/static/media/meme2.fa46b1c8381c849d967c.jpeg",
-    "index.html": "/index.html",
-    "main.5570eb5e.css.map": "/static/css/main.5570eb5e.css.map",
-    "main.38816a13.js.map": "/static/js/main.38816a13.js.map",
-    "787.becbf285.chunk.js.map": "/static/js/787.becbf285.chunk.js.map"
+    "main.css": "/hacktoberfest2023-memes-collection/static/css/main.5570eb5e.css",
+    "main.js": "/hacktoberfest2023-memes-collection/static/js/main.8b78753a.js",
+    "static/js/787.becbf285.chunk.js": "/hacktoberfest2023-memes-collection/static/js/787.becbf285.chunk.js",
+    "static/media/meme1.png": "/hacktoberfest2023-memes-collection/static/media/meme1.6dc10ee281dd1d3546a0.png",
+    "static/media/meme2.jpeg": "/hacktoberfest2023-memes-collection/static/media/meme2.fa46b1c8381c849d967c.jpeg",
+    "index.html": "/hacktoberfest2023-memes-collection/index.html",
+    "main.5570eb5e.css.map": "/hacktoberfest2023-memes-collection/static/css/main.5570eb5e.css.map",
+    "main.8b78753a.js.map": "/hacktoberfest2023-memes-collection/static/js/main.8b78753a.js.map",
+    "787.becbf285.chunk.js.map": "/hacktoberfest2023-memes-collection/static/js/787.becbf285.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5570eb5e.css",
-    "static/js/main.38816a13.js"
+    "static/js/main.8b78753a.js"
   ]
 }

@@ -19,14 +19,15 @@ Welcome to the **Coding Memes & Jokes** repository! A place to share your favori
 
 1. **Fork the Repository**: Use the button at the top-right corner of this page.
 2. **Clone the Fork**: `git clone https://github.com/Alexandra-Haynes/HacktoberFest2023-memes-collection.git`
-3. **Navigate to the Repo**: `cd HacktoberFest2023-memes-collection`
+3. **Navigate to the Repo**: `cd hacktoberfest2023-memes-collection`
 4. **Create a New Branch**: `git checkout -b new-content`
 5. **Add your Meme or Joke**:
-   - For Memes: Place your meme image in the `static/images/` folder.
-   - For Jokes: Add a markdown file with your joke in the `content/` folder.
+   - For Memes: Place your meme image in the `src/memes/` folder.
+   - For Jokes: Add a JavaScript (.js) file with your joke in the `src/jokes/` folder. Export your joke as a string.
 6. **Commit Your Changes**: `git commit -m "Added a cool meme/joke"`
 7. **Push to Your Fork**: `git push origin new-content`
 8. **Submit a Pull Request**: Navigate back to your fork on GitHub, and click the "New pull request" button.
+
 
 For more detailed contribution guidelines, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 

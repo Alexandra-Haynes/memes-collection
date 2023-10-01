@@ -1,0 +1,24 @@
+{
+  "jokes": [
+    {
+      "id": 1,
+      "joke": "Why did the JavaScript developer go broke? Because he used up all his cache!",
+      "contributor": "Alexandra Haynes"
+    },
+    {
+      "id": 2,
+      "joke": "Why do web developers stay calm? Because they console themselves!",
+      "contributor": "Alexandra Haynes"
+    },
+    {
+      "id": 3,
+      "joke": "Why don't programmers like nature? It has too many bugs!",
+      "contributor": "Vishal Kumar Yadav"
+    },
+    {
+      "id": 4,
+      "joke": "Why do Java developers wear glasses? Because they don't C#!",
+      "contributor": "Vishal Kumar Yadav"
+    }
+  ]
+}

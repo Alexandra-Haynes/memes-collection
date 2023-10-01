@@ -1,0 +1,16 @@
+{
+  "memes": [
+    {
+      "id": 1,
+      "path": "/memes/meme1.png"
+    },
+    {
+      "id": 2,
+      "path": "/memes/meme2.jpeg"
+    },
+    {
+      "id": 3,
+      "path": "/memes/meme3.jpeg"
+    }
+  ]
+}

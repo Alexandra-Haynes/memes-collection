@@ -7,13 +7,23 @@ Welcome to the **Coding Memes & Jokes** repository! A place to share your favori
 
 ## Why Contribute?
 
-1. 🗣 **Celebrate Open Source**: Hacktoberfest encourages participation in the open-source community, which grows bigger every year.
-2. 👕 **Earn a T-Shirt**: Complete the challenge and earn a limited edition T-shirt.
-3. 😂 **Share Laughs**: Bring a smile to fellow developers by sharing your favorite coding memes and jokes.
+1. 🎯 **Celebrate Open Source**: Hacktoberfest encourages participation in the open-source community, which grows bigger every year.
+2. 🏆 **Receive a unique digital reward**: Participants with four pull/merge requests accepted between October 1 and October 31 will receive a unique digital reward.
+3. 🎉 **Share Laughs**: Bring a smile to fellow developers by sharing your favorite coding memes and jokes.
 
 ## How to Participate in Hacktoberfest?
 
-📢 [Register for Hacktoberfest](https://hacktoberfest.digitalocean.com/) and make at least four pull requests (PRs) between October 1st and 31st to earn free SWAGS 🔥.
+📢 [Register for Hacktoberfest here](https://hacktoberfest.digitalocean.com/)  🔥
+
+## How to start this project?
+
+1. **Open your terminal**: and navigate to the directory where you want to create the project.
+2. **Run the command**: `npx create-react-app hacktoberfest2023-memes-collection` to create a new React project with the name "hacktoberfest2023-memes-collection".
+3. **Navigate into the project directory**: by running `cd hacktoberfest2023-memes-collection`.
+4. **Open the project**: in your code editor of choice (such as Visual Studio Code).
+5. **In the terminal**: run the command `npm install` to install all the project dependencies listed in the `package.json` file.
+6. **Start the development server**: once the installation is complete, you can start the development server by running the command `npm start`.
+7. **View the project**: You can now view the project in your browser at `http://localhost:3000/`.
 
 ## How to Contribute?
 
@@ -22,15 +32,34 @@ Welcome to the **Coding Memes & Jokes** repository! A place to share your favori
 3. **Navigate to the Repo**: `cd hacktoberfest2023-memes-collection`
 4. **Create a New Branch**: `git checkout -b new-content`
 5. **Add your Meme or Joke**:
-   - For Memes: Place your meme image in the `src/memes/` folder.
-   - For Jokes: Add a JavaScript (.js) file with your joke in the `src/jokes/` folder. Export your joke as a string.
+   - For Memes:
+   Add your meme to the `src/MemesCollection.json` file in the following format:
+
+   ```markdown
+   {
+   "id": <unique-id>,
+   "path": "<path-to-your-meme>"
+   }
+   ```
+
+   Make sure to replace `<unique-id>` and `<path-to-your-meme>` with the appropriate values.
+   Place your meme image in the `src/memes/` folder with the same name as the path value in the `MemesCollection.json` file.
+
+   - For Jokes:  Add your joke to the `src/JokesCollection.json` file in the following format:
+
+   ```markdown
+   { "id": <unique-id> , "joke": "<your-joke>", "contributor": "<your-name>" }
+   ```
+
+   Make sure to replace `<unique-id>`, `<your-joke>`, and `<your-name>` with the appropriate values.
+
+   For id, simply increment the last id in the array. Double-check to be unique (no one else used the same id).
+
 6. **Commit Your Changes**: `git commit -m "Added a cool meme/joke"`
 7. **Push to Your Fork**: `git push origin new-content`
 8. **Submit a Pull Request**: Navigate back to your fork on GitHub, and click the "New pull request" button.
 
-
 For more detailed contribution guidelines, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
-
 ## Code of Conduct
 
 We believe in fostering an inclusive community. All contributors are expected to adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md). In case of any violations, the maintainers reserve the right to take appropriate actions.

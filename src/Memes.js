@@ -1,11 +1,11 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 import memeData from "./MemesCollection.json";
 
 function Memes() {
   const [currentMeme, setCurrentMeme] = useState(null);
   const [prevIndex, setPrevIndex] = useState(null);
 
-  const getRandomMeme = () => {
+  const getRandomMeme = useCallback(() => {
     const randomIndex = Math.floor(Math.random() * memeData["memes"].length);
     if (prevIndex === null) {
       setPrevIndex(randomIndex);
@@ -24,7 +24,7 @@ function Memes() {
         setCurrentMeme(imageModule.default);
       });
     }
-  };
+  }, [prevIndex]);
 
   //useEffect to run when the component mounts (intial render)
   useEffect(() => {

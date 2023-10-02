@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 import jokesData from "./JokesCollection.json";
 import "animate.css";
 
@@ -6,7 +6,7 @@ function Jokes() {
   const [currentJoke, setCurrentJoke] = useState(null);
   const [prevIndex, setPrevIndex] = useState(null);
 
-  const getRandomJoke = () => {
+  const getRandomJoke = useCallback(() => {
     const randomIndex = Math.floor(Math.random() * jokesData["jokes"].length);
     if (prevIndex === null) {
       setPrevIndex(randomIndex);
@@ -19,7 +19,7 @@ function Jokes() {
       const randomeJoke = jokesData["jokes"][randomIndex];
       setCurrentJoke(randomeJoke);
     }
-  };
+  }, [prevIndex]);
 
   //useEffect to run when the component mounts (intial render)
   useEffect(() => {

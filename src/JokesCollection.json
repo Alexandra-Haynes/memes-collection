@@ -29,6 +29,16 @@
       "id": 6,
       "joke": "Why couldn't the React component understand the joke? It didn't get the context.",
       "contributor": "Adaeze Ndupu"
+    },
+    {
+      "id": 7,
+      "joke": "Why do programmers prefer dark mode? Because the light attracts bugs!",
+      "contributor": "Hasan Nasuha"
+    },
+    {
+      "id": 8,
+      "joke": "Why don't programmers like nature? Because It has too many bugs and not enough documentation!",
+      "contributor": "Hasan Nasuha"
     }
   ]
 }

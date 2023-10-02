@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hacktoberfest2023-memes-collection/static/css/main.321f33b0.css",
-    "main.js": "/hacktoberfest2023-memes-collection/static/js/main.957b495e.js",
+    "main.js": "/hacktoberfest2023-memes-collection/static/js/main.fe5d11cd.js",
     "static/js/553.b82c246b.chunk.js": "/hacktoberfest2023-memes-collection/static/js/553.b82c246b.chunk.js",
     "static/js/923.7586fc13.chunk.js": "/hacktoberfest2023-memes-collection/static/js/923.7586fc13.chunk.js",
     "static/js/633.a2c6756d.chunk.js": "/hacktoberfest2023-memes-collection/static/js/633.a2c6756d.chunk.js",
@@ -15,10 +15,10 @@
     "static/media/meme5.png": "/hacktoberfest2023-memes-collection/static/media/meme5.79797fb5fecdd52765ab.png",
     "index.html": "/hacktoberfest2023-memes-collection/index.html",
     "main.321f33b0.css.map": "/hacktoberfest2023-memes-collection/static/css/main.321f33b0.css.map",
-    "main.957b495e.js.map": "/hacktoberfest2023-memes-collection/static/js/main.957b495e.js.map"
+    "main.fe5d11cd.js.map": "/hacktoberfest2023-memes-collection/static/js/main.fe5d11cd.js.map"
   },
   "entrypoints": [
     "static/css/main.321f33b0.css",
-    "static/js/main.957b495e.js"
+    "static/js/main.fe5d11cd.js"
   ]
 }

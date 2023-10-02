@@ -19,6 +19,16 @@
       "id": 4,
       "joke": "Why do Java developers wear glasses? Because they don't C#!",
       "contributor": "Vishal Kumar Yadav"
+    },
+    {
+      "id": 5,
+      "joke": "Why was the JavaScript developer sad? Because they didn't Node how to Express themselves!",
+      "contributor": "Adaeze Ndupu"
+    },
+    {
+      "id": 6,
+      "joke": "Why couldn't the React component understand the joke? It didn't get the context.",
+      "contributor": "Adaeze Ndupu"
     }
   ]
 }

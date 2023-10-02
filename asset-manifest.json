@@ -1,20 +1,24 @@
 {
   "files": {
     "main.css": "/hacktoberfest2023-memes-collection/static/css/main.321f33b0.css",
-    "main.js": "/hacktoberfest2023-memes-collection/static/js/main.a7436e93.js",
+    "main.js": "/hacktoberfest2023-memes-collection/static/js/main.957b495e.js",
     "static/js/553.b82c246b.chunk.js": "/hacktoberfest2023-memes-collection/static/js/553.b82c246b.chunk.js",
     "static/js/923.7586fc13.chunk.js": "/hacktoberfest2023-memes-collection/static/js/923.7586fc13.chunk.js",
     "static/js/633.a2c6756d.chunk.js": "/hacktoberfest2023-memes-collection/static/js/633.a2c6756d.chunk.js",
     "static/js/276.f86c40ab.chunk.js": "/hacktoberfest2023-memes-collection/static/js/276.f86c40ab.chunk.js",
+    "static/js/422.4daa337b.chunk.js": "/hacktoberfest2023-memes-collection/static/js/422.4daa337b.chunk.js",
+    "static/js/820.df933f30.chunk.js": "/hacktoberfest2023-memes-collection/static/js/820.df933f30.chunk.js",
     "static/media/meme1.png": "/hacktoberfest2023-memes-collection/static/media/meme1.6dc10ee281dd1d3546a0.png",
+    "static/media/meme4.png": "/hacktoberfest2023-memes-collection/static/media/meme4.4ac02243239c0ea67481.png",
     "static/media/meme2.jpeg": "/hacktoberfest2023-memes-collection/static/media/meme2.fa46b1c8381c849d967c.jpeg",
     "static/media/meme3.jpeg": "/hacktoberfest2023-memes-collection/static/media/meme3.be7a8a05e4b13a02988d.jpeg",
+    "static/media/meme5.png": "/hacktoberfest2023-memes-collection/static/media/meme5.79797fb5fecdd52765ab.png",
     "index.html": "/hacktoberfest2023-memes-collection/index.html",
     "main.321f33b0.css.map": "/hacktoberfest2023-memes-collection/static/css/main.321f33b0.css.map",
-    "main.a7436e93.js.map": "/hacktoberfest2023-memes-collection/static/js/main.a7436e93.js.map"
+    "main.957b495e.js.map": "/hacktoberfest2023-memes-collection/static/js/main.957b495e.js.map"
   },
   "entrypoints": [
     "static/css/main.321f33b0.css",
-    "static/js/main.a7436e93.js"
+    "static/js/main.957b495e.js"
   ]
 }

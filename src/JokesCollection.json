@@ -39,6 +39,11 @@
       "id": 8,
       "joke": "Why don't programmers like nature? Because It has too many bugs and not enough documentation!",
       "contributor": "Hasan Nasuha"
+    },
+    {
+      "id": 9,
+      "joke": "Why do programmers dislike breaking up? Because they dread saying 'It's not you, it's NULL.'",
+      "contributor": "Arham Khan"
     }
   ]
 }

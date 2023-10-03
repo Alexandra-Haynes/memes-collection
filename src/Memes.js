@@ -43,7 +43,7 @@ function Memes() {
           First Pull Request
         </span>
       </h2>
-      <div className="text-center">
+      <div className="text-center my-4">
         {currentMeme && (
           <img
             src={currentMeme}

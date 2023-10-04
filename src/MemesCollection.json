@@ -11,6 +11,10 @@
     {
       "id": 3,
       "path": "/memes/meme3.jpeg"
+    },
+    {
+      "id" : 4,
+       "path": "/memes/meme4.jpg"
     }
   ]
 }

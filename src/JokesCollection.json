@@ -44,6 +44,11 @@
       "id": 9,
       "joke": "Why do programmers dislike breaking up? Because they dread saying 'It's not you, it's NULL.'",
       "contributor": "Arham Khan"
+    },
+    {
+      "id": 10,
+      "joke": "student: my dog ate my homework. Teacher: Really?! Your dog ate your coding assignment? student: it did take him a couple bytes.",
+      "contributor": "goobric"
     }
   ]
 }

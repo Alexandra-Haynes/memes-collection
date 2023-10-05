@@ -50,7 +50,7 @@ C --> F(Contribute Memes)
 - Open the folder which you have just cloned.
    > Note: The default name of the folder will be "memes-collection"
 - Open this folder in VScode.
-- Before you make any modifications in any file you must always clear a new branch for the respecitve branch to do so, open git bash in the current folder i.e "hacktoberfest2023-memes-collection" and then give the following command.
+- Before you make any modifications in any file you must always clear a new branch for the respecitve branch to do so, open git bash in the current folder i.e "memes-collection" and then give the following command.
 -
 
   ```

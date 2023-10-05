@@ -13,6 +13,10 @@
       "path": "/memes/meme3.jpeg"
     },
     {
+      "id" : 44,
+       "path": "/memes/meme4.jpg"
+    },
+    {
       "id": 4,
       "path": "/memes/meme4.png"
     },
@@ -23,7 +27,14 @@
     {
       "id": 6,
       "path": "/memes/meme6.png"
+    },
+    {
+      "id": 7,
+      "path": "/memes/meme7.png"
+    },
+    {
+      "id": 77,
+      "path": "/memes/javascript_validation.png"
     }
-    
   ]
 }

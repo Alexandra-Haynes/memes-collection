@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhacktoberfest2023_memes_collection=self.webpackChunkhacktoberfest2023_memes_collection||[]).push([[276],{276:function(e,t,c){e.exports=c.p+"static/media/meme3.be7a8a05e4b13a02988d.jpeg"}}]);

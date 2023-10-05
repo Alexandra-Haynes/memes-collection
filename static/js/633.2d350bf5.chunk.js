@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmemes_collection=self.webpackChunkmemes_collection||[]).push([[633],{633:function(e,c,s){e.exports=s.p+"static/media/meme2.fa46b1c8381c849d967c.jpeg"}}]);

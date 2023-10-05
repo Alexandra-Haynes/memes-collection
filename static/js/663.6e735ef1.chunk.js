@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmemes_collection=self.webpackChunkmemes_collection||[]).push([[663],{663:function(e,c,s){e.exports=s.p+"static/media/javascript_validation.93ee0377f0d00d9df262.png"}}]);

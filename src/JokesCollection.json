@@ -51,9 +51,19 @@
       "contributor": "Kobe Buckley"
     },
     {
-      "id": 11,
+      "id": 111,
       "joke": "Why do programmers keep Bees as pets? Because they only take one Byte!",
       "contributor": "Kobe Buckley"
+    },
+    {
+      "id": 112,
+      "joke": "student: my dog ate my homework. Teacher: Really?! Your dog ate your coding assignment? student: it did take him a couple bytes.",
+      "contributor": "goobric"
+    },
+     {
+      "id": 11,
+      "joke": "How do you know when a programmer has been in the room? You can 'you smell' the leftover pizza and energy drinks!'",
+      "contributor": "NongSnail"
     }
   ]
 }

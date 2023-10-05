@@ -3,6 +3,7 @@ import Jokes from "./Jokes";
 import Memes from "./Memes";
 import { ThemeProvider } from "styled-components";
 import { GlobalStyle } from "./GlobalStyle";
+import { Header } from "./components";
 
 function App() {
   const theme = {
@@ -15,18 +16,19 @@ function App() {
       bg: "rgb(249 249 255)",
       btn: "rgb(98,84,243)",
       border: "rgba(98,84,243,0.5)",
-    }
+    },
   };
 
-  return(
+  return (
     <>
       <ThemeProvider theme={theme}>
         <GlobalStyle />
+        <Header />
         <Memes />
         <Jokes />
       </ThemeProvider>
     </>
-  )
+  );
 }
 
 export default App;

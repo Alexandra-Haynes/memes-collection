@@ -44,6 +44,12 @@
       "id": 9,
       "joke": "Why do programmers dislike breaking up? Because they dread saying 'It's not you, it's NULL.'",
       "contributor": "Arham Khan"
+    },
+
+    {
+      "id": 10,
+      "joke": " How do you comfort a JavaScript bug? You console it.'",
+      "contributor": "Navdeep Jajoria"
     }
   ]
 }

@@ -19,6 +19,42 @@
       "id": 4,
       "joke": "Why do Java developers wear glasses? Because they don't C#!",
       "contributor": "Vishal Kumar Yadav"
+    },
+    {
+      "id": 5,
+      "joke": "Why was the JavaScript developer sad? Because they didn't Node how to Express themselves!",
+      "contributor": "Adaeze Ndupu"
+    },
+    {
+      "id": 6,
+      "joke": "Why couldn't the React component understand the joke? It didn't get the context.",
+      "contributor": "Adaeze Ndupu"
+    },
+    {
+      "id": 7,
+      "joke": "Why do programmers prefer dark mode? Because the light attracts bugs!",
+      "contributor": "Hasan Nasuha"
+    },
+    {
+      "id": 8,
+      "joke": "Why don't programmers like nature? Because It has too many bugs and not enough documentation!",
+      "contributor": "Hasan Nasuha"
+    },
+    {
+      "id": 9,
+      "joke": "Why do programmers dislike breaking up? Because they dread saying 'It's not you, it's NULL.'",
+      "contributor": "Arham Khan"
+    },
+    {
+      "id": 10,
+      "joke": "student: my dog ate my homework. Teacher: Really?! Your dog ate your coding assignment? student: it did take him a couple bytes.",
+      "contributor": "goobric"
+
+    },
+     {
+      "id": 11,
+      "joke": "How do you know when a programmer has been in the room? You can 'you smell' the leftover pizza and energy drinks!'",
+      "contributor": "NongSnail"
     }
   ]
 }

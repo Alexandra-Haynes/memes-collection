@@ -1,8 +1,8 @@
 {
-  "name": "hacktoberfest2023-memes-collection",
+  "name": "memes-collection",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Alexandra-Haynes.github.io/hacktoberfest2023-memes-collection",
+  "homepage": "http://Alexandra-Haynes.github.io/memes-collection",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -10,7 +10,7 @@
     "animate.css": "^4.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "styled-components": "^6.0.8",
     "web-vitals": "^2.1.4"
   },
@@ -41,7 +41,17 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.0.0",
-    "@babel/plugin-transform-private-property-in-object": "^7.2.11"
+    "@babel/plugin-transform-async-generator-functions": "^7.22.15",
+    "@babel/plugin-transform-class-properties": "^7.22.5",
+    "@babel/plugin-transform-dynamic-import": "^7.22.11",
+    "@babel/plugin-transform-json-strings": "^7.22.11",
+    "@babel/plugin-transform-nullish-coalescing-operator": "^7.22.11",
+    "@babel/plugin-transform-numeric-separator": "^7.22.11",
+    "@babel/plugin-transform-object-rest-spread": "^7.22.15",
+    "@babel/plugin-transform-optional-catch-binding": "^7.22.11",
+    "@babel/plugin-transform-optional-chaining": "^7.23.0",
+    "@babel/plugin-transform-private-property-in-object": "^7.2.11",
+    "@babel/plugin-transform-unicode-property-regex": "^7.22.5",
+    "gh-pages": "^6.0.0"
   }
 }

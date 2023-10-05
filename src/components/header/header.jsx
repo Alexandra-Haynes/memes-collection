@@ -27,9 +27,9 @@ export const Header = () => {
   return (
     <>
       <StyledHeader>
-        <h1>Hacktoberfest 2023 Memes Collection</h1>
+        <h1>Welcome to Memes Collection 2023</h1>
         <StyledLink
-          href="https://github.com/Alexandra-Haynes/hacktoberfest2023-memes-collection"
+          href="https://github.com/Alexandra-Haynes/memes-collection"
           target="_blank"
           rel="noreferrer"
         >

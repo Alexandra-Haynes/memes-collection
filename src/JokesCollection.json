@@ -44,6 +44,16 @@
       "id": 9,
       "joke": "Why do programmers dislike breaking up? Because they dread saying 'It's not you, it's NULL.'",
       "contributor": "Arham Khan"
+    },
+    {
+      "id": 10,
+      "joke": "Why does Python anger his clients? Because he's always too short with his statements.",
+      "contributor": "Kobe Buckley"
+    },
+    {
+      "id": 11,
+      "joke": "Why do programmers keep Bees as pets? Because they only take one Byte!",
+      "contributor": "Kobe Buckley"
     }
   ]
 }

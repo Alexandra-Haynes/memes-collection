@@ -23,7 +23,10 @@
     {
       "id": 6,
       "path": "/memes/meme6.png"
+    },
+    {
+      "id": 7,
+      "path": "/memes/javascript_validation.png"
     }
-    
   ]
 }

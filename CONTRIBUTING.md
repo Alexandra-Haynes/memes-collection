@@ -49,7 +49,7 @@ By participating in this project, you are expected to uphold our [Code of Conduc
 
 ## Seeking Help
 
-If you run into any issues or need guidance on a contribution, please don't hesitate to ask. You can reach out by [opening an issue](<https://github.com/YOUR_USERNAME/hacktoberfest2023-memes-collection>
+If you run into any issues or need guidance on a contribution, please don't hesitate to ask. You can reach out by [opening an issue](<https://github.com/YOUR_USERNAME/memes-collection>
 /issues) on GitHub.
 
 ---

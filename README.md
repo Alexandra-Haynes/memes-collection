@@ -1,26 +1,16 @@
-<div align="center">
-<img  src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg"  alt="HacktoberFest 2023" width="400px" />
-</div>
 
-# HacktoberFest 2023 Coding Memes & Jokes! 🎉
+# Coding Memes & Jokes! 🎉
 
-Welcome to the **Coding Memes & Jokes** repository! A place to share your favorite coding memes and jokes, and also a perfect opportunity for your first Pull Request during Hacktoberfest 2023!
+Welcome to the **Coding Memes & Jokes** repository! A place to share your favorite coding memes and jokes.
 
 ## Why Contribute?
 
-1. 🎯 **Celebrate Open Source**: Hacktoberfest encourages participation in the open-source community, which grows bigger every year.
+1. 🎯 **Celebrate Open Source**: Contribute to the open-source community.
 
-2. 🏆 **Receive a unique digital reward**: Participants with four pull/merge requests accepted between October 1 and October 31 will receive a unique digital reward.
-
-3. 🎉 **Share Laughs**: Bring a smile to fellow developers by sharing your favorite coding memes and jokes.
-4. 🌐**Community Engagement**: You become a part of the global open-source community. You can engage in discussions, share your knowledge, and learn from others.
-
-****
-**👇 Click here to Register in HacktoberFest 2023**
-
-[<img src="https://learnyzen.com/wp-content/uploads/2017/icons/register.gif" alt="Hacktoberfest" width="200">](https://hacktoberfest.digitalocean.com/)
+2. 🌐**Community Engagement**: Become a part of the global open-source community. You can engage in discussions, share your knowledge, and learn from others.
 
 ## Who can contribute to this project?
+
 
 ```mermaid
 graph LR
@@ -56,7 +46,7 @@ C --> F(Contribute Memes)
 **Step3**:
 **Navigate to the repository and create a new Branch**
 - Open the folder which you have just cloned.
-   > Note: The default name of the folder will be "hacktoberfest2023-memes-collection"
+   > Note: The default name of the folder will be "memes-collection"
 - Open this folder in VScode.
 - Before you make any modifications in any file you must always clear a new branch for the respecitve branch to do so, open git bash in the current folder i.e "hacktoberfest2023-memes-collection" and then give the following command.
 - 
@@ -104,7 +94,7 @@ C --> F(Contribute Memes)
 
 ## How to raise a Pull Request?
 - After completing all the changes which you have made its time to commit it and then raise a pull request.
-- **Stage Your Changes**: in Git bash (for the respective "hacktoberfest2023-memes-collection") start giving the following command.
+- **Stage Your Changes**: in Git bash (for the respective "memes-collection") start giving the following command.
 
    ```
    git add -A
@@ -141,11 +131,8 @@ For more detailed contribution guidelines, please read [CONTRIBUTING.md](./CONTR
 
 We believe in fostering an inclusive community. All contributors are expected to adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md). In case of any violations, the maintainers reserve the right to take appropriate actions.
 
-## Always Remember
-
-Make sure you submit more than 4 pull requests. Sometimes, due to various reasons, one of your PRs might not be counted by Hacktoberfest, so having extra PRs can ensure you secure your SWAGS!
 
 ---
 <div align="center">
-Happy coding and have a fun Hacktoberfest! 🎃🎉
+Happy coding! 🎃
 </div>

@@ -46,6 +46,10 @@
       "contributor": "Arham Khan"
     },
     {
+      "id": 100,
+      "joke": " How do you comfort a JavaScript bug? You console it.'",
+      "contributor": "Navdeep Jajoria"
+    {
       "id": 10,
       "joke": "Why does Python anger his clients? Because he's always too short with his statements.",
       "contributor": "Kobe Buckley"
@@ -64,6 +68,7 @@
       "id": 11,
       "joke": "How do you know when a programmer has been in the room? You can 'you smell' the leftover pizza and energy drinks!'",
       "contributor": "NongSnail"
+
     }
   ]
 }

@@ -44,6 +44,11 @@
       "id": 9,
       "joke": "Why do programmers dislike breaking up? Because they dread saying 'It's not you, it's NULL.'",
       "contributor": "Arham Khan"
+    },
+    {
+      "id": 10,
+      "joke": "Why did the React developer stay calm during a crisis? Because they knew how to handle state! 😄",
+      "contributor": "Jatin Rane"
     }
   ]
 }

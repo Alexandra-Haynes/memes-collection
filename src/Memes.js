@@ -1,35 +1,23 @@
 import React, { useState, useEffect } from "react";
 import memeData from "./MemesCollection.json";
+import { getRandomIndex } from "./utils/random";
 
 function Memes() {
   const [currentMeme, setCurrentMeme] = useState(null);
-  const [prevIndex, setPrevIndex] = useState(null);
+  const [currentIndex, setCurrentIndex] = useState(null);
 
-  const getRandomMeme = () => {
-    const randomIndex = Math.floor(Math.random() * memeData["memes"].length);
-    if (prevIndex === null) {
-      setPrevIndex(randomIndex);
-      const randomMeme = memeData["memes"][randomIndex];
-      // Use dynamic import to load the image
-      import(`.${randomMeme.path}`).then((imageModule) => {
-        setCurrentMeme(imageModule.default);
-      });
-    } else if (prevIndex === randomIndex) {
-      getRandomMeme();
-    } else if (prevIndex !== randomIndex) {
-      setPrevIndex(randomIndex);
-      const randomMeme = memeData["memes"][randomIndex];
-      // Use dynamic import to load the image
-      import(`.${randomMeme.path}`).then((imageModule) => {
-        setCurrentMeme(imageModule.default);
-      });
-    }
+  const getRandomMeme = (index) => {
+    const newIndex = getRandomIndex(index, memeData.memes.length);
+    const randomMeme = memeData.memes[newIndex];
+    import(`.${randomMeme?.path}`).then((imageModule) => {
+      setCurrentMeme(imageModule.default);
+      setCurrentIndex(newIndex);
+    });
   };
 
-  //useEffect to run when the component mounts (intial render)
   useEffect(() => {
     getRandomMeme();
-  }, []); //empty dependency array ensures it only runs once
+  }, []);
 
   return (
     <div className="container">
@@ -52,7 +40,13 @@ function Memes() {
           />
         )}
       </div>
-      <a className="button" href="#about" onClick={getRandomMeme}>
+      <a
+        className="button"
+        href="#about"
+        onClick={() => {
+          getRandomMeme(currentIndex);
+        }}
+      >
         Generate New!
       </a>
     </div>

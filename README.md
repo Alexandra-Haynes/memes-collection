@@ -1,15 +1,14 @@
-
 # Coding Memes & Jokes! 🎉
 
 Welcome to the **Coding Memes & Jokes** repository! A place to share your favorite coding memes and jokes.
 
-## Why Contribute?
+**Why Contribute?**
 
 1. 🎯 **Celebrate Open Source**: Contribute to the open-source community.
 
 2. 🌐**Community Engagement**: Become a part of the global open-source community. You can engage in discussions, share your knowledge, and learn from others.
 
-## Who can contribute to this project?
+**Who can contribute to this project?**
 
 ```mermaid
 graph LR
@@ -20,9 +19,9 @@ C --> E(Contribute Jokes)
 C --> F(Contribute Memes)
 ```
 
-## How to start contributing?
+**How to start contributing?**
 
-**Step1**:
+**Step 1**
 **Fork The Repository**
 
 - Use the button at the top right to fork this repository.
@@ -32,26 +31,24 @@ C --> F(Contribute Memes)
 
   > Now you can freely work on this forked repository of your without affecting the main repository.
 
-**Step2**:
-**Clone The Forked Repository**
+**Step 2**
+***Clone The Forked Repository***
 
 - Click on the green color dropdown button with "<>Code" written on it.
 - Copy the HTTPS link given in it.
 - Open Git Bash in any folder on your local device and then give the following command.
--
 
   ```
   git clone <paste the link here>
   ```
 
-**Step3**:
-**Navigate to the repository and create a new Branch**
+**Step 3**
+***Navigate to the repository and create a new Branch***
 
 - Open the folder which you have just cloned.
    > Note: The default name of the folder will be "memes-collection"
 - Open this folder in VScode.
 - Before you make any modifications in any file you must always clear a new branch for the respecitve branch to do so, open git bash in the current folder i.e "memes-collection" and then give the following command.
--
 
   ```
   git branch adding-joke
@@ -102,7 +99,7 @@ C --> F(Contribute Memes)
 ## How to raise a Pull Request?
 
 - After completing all the changes which you have made its time to commit it and then raise a pull request.
-- **Stage Your Changes**: in Git bash (for the respective "memes-collection") start giving the following command.
+- ***Stage Your Changes***: in Git bash (for the respective "memes-collection") start giving the following command.
 
    ```
    git add -A
@@ -112,7 +109,7 @@ C --> F(Contribute Memes)
 
    > **Note**: git add -A will stage all the files which are changes, which sometimes can be a problem, use it only when you have a good idea about this command else you can use the command git add myfolder/file1.js, here myfolder/file1.js is the path of the folder "file1.js" in which you made the changes
 
-- **Commit Your Changes**:
+- ***Commit Your Changes***:
 
   ```
   git commit -m "Write a short discription about your commit"
@@ -122,7 +119,7 @@ C --> F(Contribute Memes)
   git commit -m "Modified the footer"
   ```
 
-- **Push to Your Fork**:
+- ***Push to Your Fork***:
 
   ```
   git push origin main <branch-name>
@@ -132,17 +129,15 @@ C --> F(Contribute Memes)
 
   This will push all your changes to your forked repository in your GitHub account
 
-- **Creating a Pull Request**: After doing all this go to your github account -> open the folder repository -> switch to the branch in which you have made the changes -> You will find a message being displayed at the top saying "this branch is n commits ahead of the original repository" -> Create pull Request (PR)
+- ***Creating a Pull Request***: After doing all this go to your github account -> open the folder repository -> switch to the branch in which you have made the changes -> You will find a message being displayed at the top saying "this branch is n commits ahead of the original repository" -> Create pull Request (PR)
   Give a sort title to your PR and a brief discription to it.
 
 For more detailed contribution guidelines, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 
-## Code of Conduct
+**Code of Conduct**
 
 We believe in fostering an inclusive community. All contributors are expected to adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md). In case of any violations, the maintainers reserve the right to take appropriate actions.
 
----
 <div align="center">
 Happy coding! 🎃
-
 </div>

@@ -1,12 +1,9 @@
+Dec 2024 update: Hi! Yes, if you were wondering, this repo is still active so you can contribute more jokes and memes to the collection. 
+I will do my best to review your branch shortly after I get the notification email. 
+
 # Coding Memes & Jokes! 🎉
 
 Welcome to the **Coding Memes & Jokes** repository! A place to share your favorite coding memes and jokes.
-
-**Why Contribute?**
-
-1. 🎯 **Celebrate Open Source**: Contribute to the open-source community.
-
-2. 🌐**Community Engagement**: Become a part of the global open-source community. You can engage in discussions, share your knowledge, and learn from others.
 
 **Who can contribute to this project?**
 

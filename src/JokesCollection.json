@@ -85,18 +85,24 @@
       "joke" : "How do Reach Components say 'you're welcome' Prop you very much!",
       "contributor": "Parth Solanki"
     },
+    { "id": 14 , 
+      "joke": "Why do programmers prefer dark mode? Because light attracts bugs!", 
+      "contributor": "SirBastioon" 
+    },
     {
-      "id": 14,
+      "id": 15,
       "joke" : "How do React Hooks say 'goodbye'? Hook you later!",
       "contributor": "Cyril Garillo"
     },
     {
-      "id": 15,
+      "id": 16,
       "joke" : "Why did the programmer quit his job? Because he didn't get arrays",
       "contributor": "Elia Aeby"
-    }
-      "id": 14,
+    }, 
+    {
+      "id": 17,
       "joke" : "Why do programmers hate going outside? There’s no Ctrl+Z for their mistakes!",
       "contributor": "NicoPico"
+    }
   ]
 }

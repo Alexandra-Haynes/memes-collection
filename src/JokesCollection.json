@@ -84,6 +84,11 @@
       "id": 13,
       "joke" : "How do Reach Components say 'you're welcome' Prop you very much!",
       "contributor": "Parth Solanki"
+    },
+    {
+      "id": 14,
+      "joke" : "How do React Hooks say 'goodbye'? Hook you later!",
+      "contributor": "Cyril Garillo"
     }
   ]
 }
